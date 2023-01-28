@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hong Quan Nguyen</h1>
+<h1 align="center">👋, I'm Quan Nguyen</h1>
 <h3 align="center">Student at MTA🌟.</h3>
 
 <br>
@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **hdragon1501@gmail.com**
+- 📫 My email: **hdragon1501@gmail.com**
 
-- ⚡ Fun fact :- Play badminton and Music🎵 are the reasons to live.
+- ⚡ I love playing badminton and listening to music🎵.
 
 <br>
 
@@ -60,8 +60,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      alt="react" width="40" height="40" /> </a> </a> </p>
 
 <br>
