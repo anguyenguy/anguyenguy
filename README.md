@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Quan Nguyen</h1>
+<h1 align="center">👋 I'm Quan Nguyen</h1>
 <h3 align="center">Student at MTA🌟.</h3>
 
 <br>
